@@ -1,0 +1,4 @@
+# computadora elije un numero de 1 al 100
+la computadora deve de elejir un numero del 1 al 100
+
+![diagrama de flujo ](diagrama.png)
