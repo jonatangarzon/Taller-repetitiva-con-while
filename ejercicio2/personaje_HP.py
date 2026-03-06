@@ -19,7 +19,7 @@ while True:
         vida_jefe -= daño
         print("¡Correcto! Atacaste al jefe.")
         print("Daño al jefe:", daño)
-        print("Vida del jefe:", vida_jefe)
+        print("vida del jefe:", vida_jefe)
 
         numero_secreto = random.randint(1, 100)
 
@@ -30,7 +30,7 @@ while True:
     # Turno del jefe
     daño_jefe = random.randint(5, 15)
     vida_jugador -= daño_jefe
-    print("El jefe te atacó y te quitó", daño_jefe, "de vida.")
+    print("El jefe te atacó y te quitó", vida_jefe, "de vida.")
     print("Tu vida:", vida_jugador)
 
     if vida_jugador <= 0:
