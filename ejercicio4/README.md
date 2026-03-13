@@ -1,0 +1,4 @@
+# calcular la haltura h de una pelota
+la computadora deve de elejir un numero del 1 al 100
+
+![diagrama de flujo ](diagrama.png)
