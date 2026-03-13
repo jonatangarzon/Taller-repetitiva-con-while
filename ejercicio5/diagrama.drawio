@@ -4,20 +4,17 @@
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="14" style="edgeStyle=none;html=1;" edge="1" parent="1" source="2" target="3">
+                <mxCell id="14" style="edgeStyle=none;html=1;" parent="1" source="2" target="3" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="2" value="inicio" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF3333;strokeColor=#FF3333;" parent="1" vertex="1">
                     <mxGeometry x="250" y="50" width="120" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="15" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3" target="4">
+                <mxCell id="15" style="edgeStyle=none;html=1;" edge="1" parent="1" source="3" target="5">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="3" value="leer c1,c2,c3" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#FFFF66;strokeColor=#FFFF66;" parent="1" vertex="1">
                     <mxGeometry x="225" y="160" width="170" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="4" value="mes" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF00;strokeColor=#FFFF00;" parent="1" vertex="1">
-                    <mxGeometry x="250" y="260" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="8" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5" target="7" edge="1">
                     <mxGeometry relative="1" as="geometry">
@@ -47,9 +44,6 @@
                 </mxCell>
                 <mxCell id="9" value="fin" style="ellipse;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=#E6E6E6;" parent="1" vertex="1">
                     <mxGeometry x="240" y="730" width="120" height="80" as="geometry"/>
-                </mxCell>
-                <mxCell id="13" style="edgeStyle=none;html=1;entryX=0.582;entryY=0.125;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="4" target="5" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
